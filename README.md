@@ -1,4 +1,4 @@
-<img alt="banner" src="https://github.com/suvamjyoti/suvamjyoti/blob/main/New%20Project%20(1).png" >
+
 <h1 align="center">Hi 👋, I'm Suvamjyoti Panda</h1>
 <h3 align="center">Trying To Find A Niche In GamingEcosystem!!</h3>
 
