@@ -1,6 +1,5 @@
 <img alt="banner" src="https://github.com/suvamjyoti/suvamjyoti/blob/main/New%20Project%20(1).png" >
 <h1 align="center">Hi 👋, I'm Suvamjyoti Panda</h1>
-<h4 align="center">A Passionate GameDeveloper From India</h3>
 <h3 align="center">Trying To Find A Niche In GamingEcosystem!!</h3>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
