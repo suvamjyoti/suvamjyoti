@@ -1,3 +1,4 @@
+<img alt="banner" src="https://github.com/suvamjyoti/suvamjyoti/blob/main/New%20Project%20(1).png" >
 <h1 align="center">Hi 👋, I'm Suvamjyoti Panda</h1>
 <h4 align="center">A Passionate GameDeveloper From India</h3>
 <h3 align="center">Trying To Find A Niche In GamingEcosystem!!</h3>
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **likun54@gmail.com**
 
-- ⚡ Fun fact **I think I can disrupt GameIndustry**
+- ⚡ Fun fact **I want to disrupt GameIndustry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
