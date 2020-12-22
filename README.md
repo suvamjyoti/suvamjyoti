@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suvamjyoti Panda</h1>
-<h3 align="center">A Passionate GameDeveloper From India</h3>
-<h3 align="center">Trying To Make A Home In Indian GamingEcosystem!!</h3>
+<h4 align="center">A Passionate GameDeveloper From India</h3>
+<h3 align="center">Trying To Find A Niche In GamingEcosystem!!</h3>
+
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
 
 - 🔭 I’m currently working on [Game_Of_Tanks](https://github.com/suvamjyoti/battle-tank-game)
 
