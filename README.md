@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suvamjyoti-panda-40550b129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suvamjyoti-panda-40550b129" height="30" width="40" /></a>
-<a href="https://instagram.com/suvamjyoti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suvamjyoti" height="30" width="40" /></a>
+<a href="https://instagram.com/suvamjyoti_panda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suvamjyoti" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/suvamjyoti panda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="suvamjyoti panda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/likun54" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="likun54" height="30" width="40" /></a>
 </p>
