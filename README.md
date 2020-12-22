@@ -2,7 +2,7 @@
 <h4 align="center">A Passionate GameDeveloper From India</h3>
 <h3 align="center">Trying To Find A Niche In GamingEcosystem!!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
 - 🔭 I’m currently working on [Game_Of_Tanks](https://github.com/suvamjyoti/battle-tank-game)
 
