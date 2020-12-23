@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suvamjyoti Panda</h1>
 <h3 align="center">Trying To Find A Niche In GamingEcosystem!!</h3>
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2071898/screenshots/10857134/media/2a1cd30af03841d61345cc741069a4cd.gif">
 
 
 - 🔭 I’m currently working on [Game_Of_Tankes](https://github.com/suvamjyoti/battle-tank-game)
