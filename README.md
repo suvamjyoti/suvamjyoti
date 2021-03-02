@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Game_Of_Tankes](https://github.com/suvamjyoti/battle-tank-game)
 
-- 🌱 I’m trying to learn **NodeJs and FireBase**
+- 🌱 I’m trying to learn **DS and Algo**
 
 - 📫 How to reach me **likun54@gmail.com**
 
