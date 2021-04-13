@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [XansrTech](https://xansrtech.com/)
 
-- 🌱 I’m trying to improve myself **DS and Algo**
+- 🌱 Currently I’m learning **Design Patterns**
 
 - 📫 How to reach me **likun54@gmail.com**
 
