@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying MSc Computer Games at [University of Essex](https://www.essex.ac.uk/)
 
-- 🌱 Currently I’m learning **Procedural Generation** & **Shader Programming**
+- 🌱 Currently I’m learning **Procedural Generation**
 
 - 📫 How to reach me **likun54@gmail.com**
 
