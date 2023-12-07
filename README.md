@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2071898/screenshots/10857134/media/2a1cd30af03841d61345cc741069a4cd.gif">
 
 
-- 🔭 I’m currently studying MSc Computer Games at [University of Essex](https://www.essex.ac.uk/)
+- 🔭 I’ve completed my study at [University of Essex](https://www.essex.ac.uk/)
 
 - 🌱 Currently I’m learning **SDL2 C++**
 
