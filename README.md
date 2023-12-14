@@ -9,7 +9,7 @@
 
 - 🌱 Currently I’m learning **SDL2 C++**
 
-- 📫 How to reach me **likun54@gmail.com**
+- 📫 How to reach me **suvamjyotipanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
