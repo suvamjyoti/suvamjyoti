@@ -7,9 +7,9 @@
 
 - 🔭 I’ve completed my study at [University of Essex](https://www.essex.ac.uk/)
 
-- 🌱 Currently I’m learning **SDL2 C++**
+- 🌱 Currently I’m learning **Unreal Engine**
 
-- 📫 How to reach me **suvamjyotipanda@gmail.com**
+- 📫 How to reach me **likun54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
